@@ -2,6 +2,7 @@ import allure
 from src.test_data import IngredientData as ID
 
 
+@allure.epic("Тестирование stellarburgers")
 @allure.feature("Тестирование класса Ingredient")
 class TestIngredient:
 

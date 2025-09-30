@@ -2,6 +2,7 @@ import allure
 from src.test_data import BunData as BD
 
 
+@allure.epic("Тестирование stellarburgers")
 @allure.feature("Тестирование класса Bun")
 class TestBun:
 

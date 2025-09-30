@@ -4,6 +4,7 @@ from praktikum.ingredient import Ingredient
 import allure
 
 
+@allure.epic("Тестирование stellarburgers")
 @allure.feature("Тестирование базы данных")
 class TestDatabase:
 

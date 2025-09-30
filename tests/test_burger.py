@@ -5,6 +5,7 @@ from src.moks import *
 import allure
 
 
+@allure.epic("Тестирование stellarburgers")
 @allure.feature("Тестирование класса Burger")
 class TestBurger:
 

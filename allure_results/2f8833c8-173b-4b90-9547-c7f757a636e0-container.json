@@ -1,0 +1,1 @@
+{"uuid": "4c81f1bf-2c25-444c-ba47-d121c09a4e80", "children": ["b2ea9e38-9958-4c67-9971-0ffe2d958a9d"], "befores": [{"name": "burger", "status": "passed", "steps": [{"name": "Создаём бургер", "status": "passed", "start": 1759243552899, "stop": 1759243552899}], "start": 1759243552899, "stop": 1759243552899}], "start": 1759243552899, "stop": 1759243552907}

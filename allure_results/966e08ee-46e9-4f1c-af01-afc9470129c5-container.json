@@ -1,1 +1,0 @@
-{"uuid": "4246069f-0447-47dc-a27e-72be44f050e3", "children": ["2254d6f3-d7a3-4167-8407-e22e0cdc992c"], "befores": [{"name": "make_bun", "status": "passed", "steps": [{"name": "Создаём булку", "status": "passed", "start": 1759161245644, "stop": 1759161245644}], "start": 1759161245644, "stop": 1759161245644}], "start": 1759161245644, "stop": 1759161245645}
